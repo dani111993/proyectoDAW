@@ -1,0 +1,56 @@
+header{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: relative;
+    right: 56px;
+    color:saddlebrown;
+}
+
+main{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:small;
+    color:pink;
+    text-align: center;
+}
+
+
+ul{
+    position: relative;
+    left: 50px;
+    text-decoration: none;
+    color: pink;
+}
+
+.brand{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:50px;
+    position: relative;
+    left: 125px;
+    color: blanchedalmond;
+    text-decoration: overline;
+    
+}
+
+li{
+    color: pink;
+}
+
+
+body{
+    background-color:burlywood;
+    background: url(../Imagenes/GettyImages-160025722.webp)no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+
+footer{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: small;
+    color: pink;
+    top: 23em;
+    position: relative;
+    font-style: italic;
+    text-align: center;
+
+}
+
